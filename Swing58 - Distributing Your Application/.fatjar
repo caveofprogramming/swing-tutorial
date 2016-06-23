@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Tue Jun 26 20:40:57 CEST 2012
+onejar.license.required=false
+manifest.classpath=.
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=temp.jar
+manifest.mergeall=true
+manifest.mainclass=gui.App
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
